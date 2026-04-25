@@ -60,14 +60,6 @@ The dataset consists of:
 
 ---
 
-## Sample Prediction
-
-```python
-sample_email = ["Congratulations! You have won a free prize. Click now!"]```
-Output:
-Spam Email 🚫
-
- 
 ## Conclusion
 
 This project demonstrates how Machine Learning can be effectively used to detect spam emails. By applying text preprocessing and TF-IDF vectorization, the model is able to understand patterns in email content and classify them accurately. The approach is simple, efficient, and can be extended for real-world email filtering systems.
