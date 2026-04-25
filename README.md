@@ -63,7 +63,7 @@ The dataset consists of:
 ## Sample Prediction
 
 ```python
-sample_email = ["Congratulations! You have won a free prize. Click now!"]
+sample_email = ["Congratulations! You have won a free prize. Click now!"]```
 Output:
 Spam Email 🚫
 
